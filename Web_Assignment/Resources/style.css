@@ -1,0 +1,50 @@
+.box {
+  
+  color: #fff;
+  background: deepskyblue;
+  font-display: inherit;
+}
+
+ .img {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+        margin-bottom: 20 px;
+        width: 65%
+    }
+
+.head{
+text-align: center;
+	margin-top: 60px;
+  font-weight: bold;
+}
+
+.chead{
+  text-align: left;
+    margin-top: 60px;
+    font-weight: bold;
+  }
+
+  .chead2{
+    text-align: justify;
+      margin-top: 60px;
+      font-weight: 300;
+    }
+.para{
+  font-size: 12px;
+}
+
+.cimg {
+  
+  /* margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto; */
+  width: 20em
+  
+}
+
+.big-container {
+  padding: 1em 4em 0 4em;
+}
